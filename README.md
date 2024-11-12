@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧰 I’m currently working on data librarian
+- 🧰 I’m currently working as librarian
 - 🔍 I’m learning Java and Python
 - 📫 How to reach me: contatocamposgabriel@gmail.com
 
