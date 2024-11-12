@@ -12,12 +12,10 @@
 <div style="display: inline_block"><br>
   <img align="center"
 src="https://camo.githubusercontent.com/4a7c0b29478c7038b8cf53c72b63a5ccfa2308a04555f339f465e00547713163/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6963726f736f6674253230617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465">
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center"
     src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</div>
 
 <div style="display: inline_block"><br>
     <img align="center"
