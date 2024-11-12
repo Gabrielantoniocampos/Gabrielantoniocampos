@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-
-- 🧰 I’m currently working as librarian
 - 🔍 I’m learning Java and Python
 - 📫 How to reach me: contatocamposgabriel@gmail.com
-
 
 ## Main skills
 <div style="display: inline_block"><br>
@@ -24,10 +21,10 @@ src="https://camo.githubusercontent.com/4a7c0b29478c7038b8cf53c72b63a5ccfa2308a0
 
 <div style="display: inline_block"><br>
   <img align="center"
-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center"
-    src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
