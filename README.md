@@ -8,10 +8,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Network
-<div> 
-  <a href="https://www.linkedin.com/in/gabrieldecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 ## Other Knowledge
 
 <div style="display: inline_block"><br>
@@ -28,3 +24,7 @@ src="https://camo.githubusercontent.com/4a7c0b29478c7038b8cf53c72b63a5ccfa2308a0
   <img align="center"
 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+## Network
+<div> 
+  <a href="https://www.linkedin.com/in/gabrieldecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
