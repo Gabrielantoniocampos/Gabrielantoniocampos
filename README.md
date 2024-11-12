@@ -21,7 +21,7 @@ src="https://camo.githubusercontent.com/4a7c0b29478c7038b8cf53c72b63a5ccfa2308a0
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="left"
+    <img align="center"
 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
