@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔍 I’m learning Java and Python
 - 📫 How to reach me: contatocamposgabriel@gmail.com
 
-# Main skills
+### Main skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-# Other Knowledge
+### Other Knowledge
 
 <div style="display: inline_block"><br>
   <img align="center"
@@ -25,6 +25,6 @@ src="https://camo.githubusercontent.com/4a7c0b29478c7038b8cf53c72b63a5ccfa2308a0
 src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-## Network
+### Network
 <div> 
   <a href="https://www.linkedin.com/in/gabrieldecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
